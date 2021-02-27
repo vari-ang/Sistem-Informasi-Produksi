@@ -1,0 +1,23 @@
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\Produksi_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\Produksi_LIB\obj\Debug\Produksi_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\Produksi_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\Produksi_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\Produksi_LIB\obj\Debug\Produksi_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\Produksi_LIB\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\Produksi_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\Produksi_LIB\obj\Debug\Produksi_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\Produksi_LIB\obj\Debug\PenjualanPembelian.pdb

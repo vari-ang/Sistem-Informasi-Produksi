@@ -1,0 +1,297 @@
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe.config
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\bin\Debug\MySql.Data.dll
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csprojResolveAssemblyReference.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormBatalOrderPenjualan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBOM.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarCustomer.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJadwal.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarMesin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPekerja.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPemesananBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPengiriman.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarProgress.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarRiwayatPerbaikan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSPK.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBOM.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusCustomer.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJadwal.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPekerja.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLoad.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusProgress.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusRiwayatperbaikan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormPemesananBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusMesin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPengiriman.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJadwal.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPengiriman.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBOM.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahCustomer.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPenggunaanBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahMesin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahProgress.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahRiwayat.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSPK.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBarang.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBOM.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahCustomer.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJadwal.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahMesin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPekerja.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLogin.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarOrderPenjualan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahOrderPenjualan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPekerja.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJabatan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahProgress.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahRiwayat.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahSupplier.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUtama.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.Properties.Resources.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csproj.GenerateResource.Cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csproj.CoreCompileInputs.cache
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.exe
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe.config
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.exe
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\bin\Debug\MySql.Data.dll
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csprojResolveAssemblyReference.cache
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormBatalOrderPenjualan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBarang.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBOM.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarCustomer.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJabatan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJadwal.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarMesin.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPekerja.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarProgress.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarRiwayatPerbaikan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSPK.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSupplier.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBarang.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBOM.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusCustomer.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJabatan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJadwal.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPekerja.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLoad.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusProgress.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusRiwayatperbaikan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusMesin.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBarang.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJadwal.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBOM.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahCustomer.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPenggunaanBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahMesin.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahProgress.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahRiwayat.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSPK.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSupplier.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBarang.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBOM.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahCustomer.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJadwal.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahMesin.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPekerja.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLogin.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarOrderPenjualan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJabatan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahOrderPenjualan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPekerja.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJabatan.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahProgress.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahRiwayat.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahSupplier.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUtama.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.Properties.Resources.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csproj.GenerateResource.Cache
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDetailPemesananBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDetailPemesananBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPemesananBahanBaku.resources
+C:\Users\Vinzo\Desktop\Projectsip2019\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe.config
+C:\Users\Vinzo\Desktop\Projectsip2019\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.exe
+C:\Users\Vinzo\Desktop\Projectsip2019\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe.config
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.exe
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csprojResolveAssemblyReference.cache
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormBatalOrderPenjualan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBarang.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBOM.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarCustomer.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJabatan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJadwal.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarMesin.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPekerja.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarProgress.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarRiwayatPerbaikan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSPK.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSupplier.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDetailPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBarang.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBOM.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusCustomer.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJabatan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJadwal.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPekerja.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLoad.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusProgress.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusRiwayatperbaikan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusMesin.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBarang.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJadwal.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBOM.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahCustomer.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPenggunaanBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahMesin.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahProgress.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahRiwayat.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSPK.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSupplier.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBarang.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBOM.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahCustomer.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJadwal.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahMesin.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPekerja.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLogin.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarOrderPenjualan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJabatan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahOrderPenjualan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPekerja.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJabatan.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPengiriman.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahProgress.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahRiwayat.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahSupplier.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUtama.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.Properties.Resources.resources
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csproj.GenerateResource.Cache
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\bin\Debug\MySql.Data.dll
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\kuliah\p terbaru\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPenggunaanBahanBaku.resources
+C:\Users\v33\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe.config
+C:\Users\v33\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.exe
+C:\Users\v33\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.pdb
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPenggunaanBahanBaku.resources
+C:\Users\Toki\Downloads\kuliah\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPenggunaanBahanBaku.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPenerimaan.resources
+C:\Users\Varianto\Documents\Tugas Kuliah\SIPSCM\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPenerimaan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe.config
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.exe
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.exe
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\bin\Debug\SIProduksi.pdb
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.dll
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\bin\Debug\MySql.Data.dll
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\bin\Debug\PenjualanPembelian.pdb
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csprojResolveAssemblyReference.cache
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormBatalOrderPenjualan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBarang.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarBOM.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarCustomer.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJabatan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarJadwal.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarMesin.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPekerja.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPenerimaan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPenggunaanBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarPengiriman.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarProgress.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarRiwayatPerbaikan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSPK.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarSupplier.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDetailPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBarang.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusBOM.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusCustomer.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJabatan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusJadwal.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPekerja.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLoad.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusProgress.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusRiwayatperbaikan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusMesin.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormHapusPengiriman.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBarang.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJadwal.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPenerimaan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPengiriman.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahBOM.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahCustomer.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPenggunaanBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahMesin.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahProgress.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahRiwayat.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSPK.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahSupplier.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBarang.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahBOM.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahCustomer.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJadwal.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahMesin.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPekerja.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormLogin.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormDaftarOrderPenjualan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahJabatan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahOrderPenjualan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormTambahPekerja.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahJabatan.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahPemesananBahanBaku.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahProgress.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahRiwayat.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUbahSupplier.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.FormUtama.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.Properties.Resources.resources
+C:\Users\Toki\Downloads\SW\project-sip\SIProduksi\SIProduksi\obj\Debug\SIProduksi.csproj.GenerateResource.Cache
